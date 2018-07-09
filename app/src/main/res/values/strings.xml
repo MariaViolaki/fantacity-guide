@@ -1,0 +1,176 @@
+<resources>
+    <string name="app_name">Fantacity Guide</string>
+
+    <string name="districts">Districts</string>
+    <string name="forests">Forests</string>
+    <string name="attractions">Attractions</string>
+    <string name="facilities">Facilities</string>
+
+    <string name="empty"></string>
+
+    <string name="attraction_arcane_university">Arcane University</string>
+    <string name="attraction_breathing_house">Breathing House</string>
+    <string name="attraction_cemetery_of_spirits">Cemetery of Spirits</string>
+    <string name="attraction_cloning_lab">Cloning Lab</string>
+    <string name="attraction_human_world_portal">Human World Portal</string>
+    <string name="attraction_lunar_oracle">Lunar Oracle</string>
+    <string name="attraction_rainbows_end">Rainbow\'s End</string>
+    <string name="attraction_spook_festival">Spook Festival</string>
+    <string name="attraction_wandering_castle">Wandering Castle</string>
+    <string name="facility_city_library">City Library</string>
+    <string name="facility_city_tavern">City Tavern</string>
+    <string name="facility_costume_shop">Costume Shop</string>
+    <string name="facility_druids_pharmacy">Druid\'s Pharmacy</string>
+    <string name="facility_minion_store">Minion Store</string>
+    <string name="facility_transformation_clinic">Transformation Clinic</string>
+    <string name="facility_underworld_portal">Underworld Portal</string>
+    <string name="facility_voodoo_shop">Voodoo Shop</string>
+    <string name="facility_wonderland_portal">Wonderland Portal</string>
+    <string name="forest_cheshire">Cheshire Forest</string>
+    <string name="forest_christmas">Christmas Forest</string>
+    <string name="forest_crystal">Crystal Forest</string>
+    <string name="forest_glacial">Glacial Forest</string>
+    <string name="forest_mushroom">Mushroom Forest</string>
+    <string name="forest_nuclear">Nuclear Forest</string>
+    <string name="forest_ravenous">Ravenous Forest</string>
+    <string name="forest_submerged">Submerged Forest</string>
+    <string name="forest_undead">Undead Forest</string>
+    <string name="conundrums_core">Conundrum\'s Core</string>
+    <string name="forsaken_hollows">Forsaken Hollows</string>
+    <string name="ghastly_plains">Ghastly Plains</string>
+    <string name="holy_veils">Holy Veils</string>
+    <string name="infernal_pools">Infernal Pools</string>
+    <string name="primeval_woods">Primeval Woods</string>
+    <string name="soaring_heights">Soaring Heights</string>
+    <string name="somber_sanctuary">Somber Sanctuary</string>
+    <string name="sullenmans_land">Sullenman\'s Land</string>
+
+    <string name="location_conundrums_core">&#160;Conundrum\'s Core&#160;</string>
+    <string name="location_forsaken_hollows">&#160;Forsaken Hollows&#160;</string>
+    <string name="location_ghastly_plains">&#160;Ghastly Plains&#160;</string>
+    <string name="location_holy_veils">&#160;Holy Veils&#160;</string>
+    <string name="location_infernal_pools">&#160;Infernal Pools&#160;</string>
+    <string name="location_primeval_woods">&#160;Primeval Woods&#160;</string>
+    <string name="location_soaring_heights">&#160;Soaring Heights&#160;</string>
+    <string name="location_somber_sanctuary">&#160;Somber Sanctuary&#160;</string>
+    <string name="location_sullenmans_land">&#160;Sullenman\'s Land&#160;</string>
+
+    <string name="attraction_arcane_university_info">
+        Where students from all districts are united to learn.
+    </string>
+    <string name="attraction_breathing_house_info">
+        This restless house may end up trapping you within its walls.
+    </string>
+    <string name="attraction_cemetery_of_spirits_info">
+        The right place to have a peaceful talk with the undying.
+    </string>
+    <string name="attraction_cloning_lab_info">
+        Observe the duplication of any form of life at first hand.
+    </string>
+    <string name="attraction_human_world_portal_info">
+        A novel serves as the connection between humans and fantasy.
+    </string>
+    <string name="attraction_lunar_oracle_info">
+        Learn about a dark future you would normally avoid facing.
+    </string>
+    <string name="attraction_rainbows_end_info">
+        If you\'re lucky, you may boost your holiday budget here.
+    </string>
+    <string name="attraction_spook_festival_info">
+        A friendly celebration that will make you fond of nightmares.
+    </string>
+    <string name="attraction_wandering_castle_info">
+        Its location changes depending on which district holds the power.
+    </string>
+    <string name="facility_city_library_info">
+        Contains both normal books and portals to other dimensions.
+    </string>
+    <string name="facility_city_tavern_info">
+        Look twice at the menu unless you really love trying new dishes.
+    </string>
+    <string name="facility_costume_shop_info">
+        In such a diverse town normal clothes would certainly stand out.
+    </string>
+    <string name="facility_druids_pharmacy_info">
+        Contains drugs and remedies for anything you can imagine.
+    </string>
+    <string name="facility_minion_store_info">
+        Purchase your next best friend but don\'t forget to pamper them.
+    </string>
+    <string name="facility_transformation_clinic_info">
+        This is why you needn\'t be afraid of being turned into a toad.
+    </string>
+    <string name="facility_underworld_portal_info">
+        This will secure your trip to the Infernal Pools district.
+    </string>
+    <string name="facility_voodoo_shop_info">
+        The right place to start the exploration of a controversial art.
+    </string>
+    <string name="facility_wonderland_portal_info">
+        The easiest way to get to Conundrum\'s Core without being lost.
+    </string>
+    <string name="forest_cheshire_info">
+        If you have a knack for riddles this is the place for you.
+    </string>
+    <string name="forest_christmas_info">
+        Bright and generous, these woods will make you question life.
+    </string>
+    <string name="forest_crystal_info">
+        An inexhaustible source of wealth -if you ever find it.
+    </string>
+    <string name="forest_glacial_info">
+        Prepare thoroughly or its stillness will soon spread to you too.
+    </string>
+    <string name="forest_mushroom_info">
+        The supply center for the vast majority of businesses.
+    </string>
+    <string name="forest_nuclear_info">
+        Make sure to keep away unless you have a suicide wish.
+    </string>
+    <string name="forest_ravenous_info">
+        Depending on your capabilities, get ready to eat or be eaten.
+    </string>
+    <string name="forest_submerged_info">
+        Be prepared because this forest will try to keep you for itself.
+    </string>
+    <string name="forest_undead_info">
+        Its residents are unwelcoming unless you wish to serve.
+    </string>
+    <string name="conundrums_core_info">
+        Its enchanted nature resembles Wonderland.
+        This is the homeland of elves, fairies, and practically anything aside from stones.
+    </string>
+    <string name="forsaken_hollows_info">
+        The entire district is invisible to those unable to cast spells.
+        You will need to gain the witches\' trust before trying to enter.
+    </string>
+    <string name="ghastly_plains_info">
+        Spectres, skeletons and zombies constitute its majority.
+        It is said that the secret to immortality is hidden among those tombstones.
+    </string>
+    <string name="holy_veils_info">
+        The land of angels, in its finest purity.
+        Travellers are tested thoroughly before entering in order to avoid disturbing the peace.
+    </string>
+    <string name="infernal_pools_info">
+        Here you will either be punished or rediscover freedom.
+        Treat the demons will respect and they will not forget your kindness.
+    </string>
+    <string name="primeval_woods_info">
+        This ancient woodland is now inhabited by werewolves.
+        They are friendly to anyone who does not endanger the living or the undead.
+    </string>
+    <string name="soaring_heights_info">
+        Befriend dragons and countless other mythical creatures in this wild habitat.
+        This is the ideal location for adventurers.
+    </string>
+    <string name="somber_sanctuary_info">
+        The secrets of this underwater district remain a mystery.
+        If the sirens and mermaids trust you enough, you may come to discover some of them.
+    </string>
+    <string name="sullenmans_land_info">
+        The loneliest yet most elegant area in town.
+        The vampires residing it seem to avoid leaving their manors unless it\'s dark outside.
+    </string>
+
+</resources>
